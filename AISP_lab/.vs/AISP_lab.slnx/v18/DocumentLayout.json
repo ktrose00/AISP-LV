@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Leni Junior\\OneDrive\\Desktop\\AISP-LV\\AISP_lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E26008D-E657-46C6-A424-354D2AF9FD41}|Zadatak2\\Zadatak 2.vcxproj|C:\\Users\\Leni Junior\\OneDrive\\Desktop\\AISP-LV\\AISP_lab\\Zadatak2\\zad2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E26008D-E657-46C6-A424-354D2AF9FD41}|Zadatak2\\Zadatak 2.vcxproj|solutionrelative:Zadatak2\\zad2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C395FEB1-8F0C-4679-871C-947DBB551F6C}|Zadatak1\\Zadatak1.vcxproj|C:\\Users\\Leni Junior\\OneDrive\\Desktop\\AISP-LV\\AISP_lab\\Zadatak1\\zad1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C395FEB1-8F0C-4679-871C-947DBB551F6C}|Zadatak1\\Zadatak1.vcxproj|solutionrelative:Zadatak1\\zad1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "zad2.c",
+              "DocumentMoniker": "C:\\Users\\Leni Junior\\OneDrive\\Desktop\\AISP-LV\\AISP_lab\\Zadatak2\\zad2.c",
+              "RelativeDocumentMoniker": "Zadatak2\\zad2.c",
+              "ToolTip": "C:\\Users\\Leni Junior\\OneDrive\\Desktop\\AISP-LV\\AISP_lab\\Zadatak2\\zad2.c",
+              "RelativeToolTip": "Zadatak2\\zad2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-26T23:22:55.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "zad1.c",
               "DocumentMoniker": "C:\\Users\\Leni Junior\\OneDrive\\Desktop\\AISP-LV\\AISP_lab\\Zadatak1\\zad1.c",
               "RelativeDocumentMoniker": "Zadatak1\\zad1.c",
               "ToolTip": "C:\\Users\\Leni Junior\\OneDrive\\Desktop\\AISP-LV\\AISP_lab\\Zadatak1\\zad1.c",
               "RelativeToolTip": "Zadatak1\\zad1.c",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAADkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-10-20T02:04:40.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.txt",
               "DocumentMoniker": "C:\\Users\\Leni Junior\\OneDrive\\Desktop\\AISP-LV\\AISP_lab\\Zadatak1\\Student.txt",
               "RelativeDocumentMoniker": "Zadatak1\\Student.txt",
